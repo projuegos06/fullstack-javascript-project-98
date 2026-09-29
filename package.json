@@ -14,9 +14,13 @@
   "author": "",
   "type": "module",
   "bin": {
-  "brain-games": "bin/brain-games.js",
-  "main": "index.js"},
+    "brain-games": "bin/brain-games.js",
+    "main": "index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
   }
 }
