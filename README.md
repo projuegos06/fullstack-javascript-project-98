@@ -1,5 +1,7 @@
 # Proyecto: Juegos mentales
 
+[![Actions Status](https://github.com/projuegos06/fullstack-javascript-project-98/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/projuegos06/fullstack-javascript-project-98/actions)
+
 [![hexlet-check](https://github.com/projuegos06/fullstack-javascript-project-98/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/projuegos06/fullstack-javascript-project-98/actions)
 
 Sumérgete en el complejo ecosistema de JavaScript, aprende a configurar tu entorno de trabajo. Hazte amigo del linter (analizador de calidad de código) y del administrador de dependencias npm. Comprende las diferencias entre git y GitHub, trabaja con repositorios externos. Obtén experiencia en la construcción de la arquitectura de una aplicación completa y en la escritura de código limpio.
@@ -23,6 +25,7 @@ cd fullstack-javascript-project-98
 ## Uso
 
 <!-- Agregue ejemplos de ejecución y una grabación de asciinema: esto es lo que miran los empleadores -->
+[![asciicast](https://asciinema.org/a/AMeLpYu4DDGXA060.svg)](https://asciinema.org/a/AMeLpYu4DDGXA060)
 
 ---
 
