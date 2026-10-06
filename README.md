@@ -27,6 +27,8 @@ cd fullstack-javascript-project-98
 <!-- Agregue ejemplos de ejecución y una grabación de asciinema: esto es lo que miran los empleadores -->
 [![asciicast](https://asciinema.org/a/AMeLpYu4DDGXA060.svg)](https://asciinema.org/a/AMeLpYu4DDGXA060)
 
+[![asciicast](https://asciinema.org/a/huAyP7l40CW01nsd.svg)](https://asciinema.org/a/huAyP7l40CW01nsd)
+
 ---
 
 <details>
