@@ -29,6 +29,8 @@ cd fullstack-javascript-project-98
 
 [![asciicast](https://asciinema.org/a/huAyP7l40CW01nsd.svg)](https://asciinema.org/a/huAyP7l40CW01nsd)
 
+[![asciicast](https://asciinema.org/a/0DznMSUqre4vgCge.svg)](https://asciinema.org/a/0DznMSUqre4vgCge)
+
 ---
 
 <details>
