@@ -32,7 +32,10 @@ cd fullstack-javascript-project-98
 [![asciicast](https://asciinema.org/a/0DznMSUqre4vgCge.svg)](https://asciinema.org/a/0DznMSUqre4vgCge)
 
 [![asciicast](https://asciinema.org/a/DNDuQHFf59XqhqJs.svg)](https://asciinema.org/a/DNDuQHFf59XqhqJs)
+
+[![asciicast](https://asciinema.org/a/DNDuQHFf59XqhqJs.svg)](https://asciinema.org/a/6OsjHyAVCAYkXGoe)
 ---
+
 
 <details>
 <summary>Pruebas automáticas de Códica</summary>
