@@ -25,15 +25,22 @@ cd fullstack-javascript-project-98
 ## Uso
 
 <!-- Agregue ejemplos de ejecución y una grabación de asciinema: esto es lo que miran los empleadores -->
-[![asciicast](https://asciinema.org/a/AMeLpYu4DDGXA060.svg)](https://asciinema.org/a/AMeLpYu4DDGXA060)
+## Uso
 
-[![asciicast](https://asciinema.org/a/huAyP7l40CW01nsd.svg)](https://asciinema.org/a/huAyP7l40CW01nsd)
+### Juego: Par o Impar (`brain-even`)
+[![asciicast](https://asciinema.org/a/TU_LINK_AQUI.svg)](https://asciinema.org/a/TU_LINK_AQUI)
 
-[![asciicast](https://asciinema.org/a/0DznMSUqre4vgCge.svg)](https://asciinema.org/a/0DznMSUqre4vgCge)
+### Juego: Calc (`brain-calc`)
+[![asciicast](https://asciinema.org/a/TU_LINK_AQUI.svg)](https://asciinema.org/a/TU_LINK_AQUI)
 
-[![asciicast](https://asciinema.org/a/DNDuQHFf59XqhqJs.svg)](https://asciinema.org/a/DNDuQHFf59XqhqJs)
+### Juego: MCD (`brain-gcd`)
+[![asciicast](https://asciinema.org/a/TU_LINK_AQUI.svg)](https://asciinema.org/a/TU_LINK_AQUI)
 
-[![asciicast](https://asciinema.org/a/DNDuQHFf59XqhqJs.svg)](https://asciinema.org/a/6OsjHyAVCAYkXGoe)
+### Juego: Progresión Aritmética (`brain-progression`)
+[![asciicast](https://asciinema.org/a/TU_LINK_AQUI.svg)](https://asciinema.org/a/TU_LINK_AQUI)
+
+### Juego: ¿Es Primo? (`brain-prime`)
+[![asciicast](https://asciinema.org/a/TU_LINK_AQUI.svg)](https://asciinema.org/a/TU_LINK_AQUI)
 ---
 
 
