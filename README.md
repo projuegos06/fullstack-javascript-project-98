@@ -4,7 +4,7 @@
 
 Sumérgete en el complejo ecosistema de JavaScript, aprende a configurar tu entorno de trabajo. Hazte amigo del linter (analizador de calidad de código) y del administrador de dependencias npm. Comprende las diferencias entre git y GitHub, trabaja con repositorios externos. Obtén experiencia en la construcción de la arquitectura de una aplicación completa y en la escritura de código limpio.
 
-Proyecto de aprendizaje de Códica: https://app.codica.la/programs/fullstack-javascript
+Proyecto de aprendizaje de Códica: [https://app.codica.la/programs/fullstack-javascript](https://app.codica.la/programs/fullstack-javascript)
 
 ## Requisitos Mínimos
 - Node.js >= 16.0.0
@@ -23,6 +23,7 @@ git clone https://github.com/projuegos06/fullstack-javascript-project-98.git
 cd fullstack-javascript-project-98
 npm ci
 npm link
+```
 
 ## Uso y Demostraciones
 
