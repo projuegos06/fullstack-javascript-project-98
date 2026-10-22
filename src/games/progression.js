@@ -1,5 +1,13 @@
 import runEngine from '../index.js';
 
+// Constantes para evitar números mágicos
+const PROGRESSION_LENGTH = 10;
+const MIN_START = 1;
+const MAX_START = 20;
+const MIN_STEP = 1;
+const MAX_STEP = 10;
+const MIN_INDEX = 0;
+
 const description = '¿Qué número falta en la progresión?';
 
 const getRandomInt = (min, max) => Math.floor(Math.random() * (max - min + 1)) + min;
@@ -14,14 +22,15 @@ const generateProgression = (start, step, length) => {
 };
 
 const generateRound = () => {
-  const start = getRandomInt(1, 20);
-  const step = getRandomInt(1, 10);
-  const length = 10; // se recomienda una longitud de 10 elementos
+  // Pasamos las constantes explícitamente
+  const start = getRandomInt(MIN_START, MAX_START);
+  const step = getRandomInt(MIN_STEP, MAX_STEP);
+  const length = PROGRESSION_LENGTH;
 
   const progression = generateProgression(start, step, length);
 
-  // Seleccionamos un índice aleatorio para ocultar
-  const hiddenIndex = getRandomInt(0, length - 1);
+  // Seleccionamos un índice aleatorio para ocultar usando constantes
+  const hiddenIndex = getRandomInt(MIN_INDEX, length - 1);
   const correctAnswer = String(progression[hiddenIndex]);
 
   // Reemplazamos el valor por '..' para mostrar al jugador

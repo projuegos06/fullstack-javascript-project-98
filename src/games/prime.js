@@ -1,5 +1,8 @@
 import runEngine from '../index.js';
 
+const MIN_NUMBER = 1;
+const MAX_NUMBER = 100;
+
 const description = 'Responde "yes" si el número dado es primo. De lo contrario, responde "no".';
 
 const getRandomInt = (min, max) => Math.floor(Math.random() * (max - min + 1)) + min;
@@ -18,7 +21,8 @@ const isPrime = (num) => {
 };
 
 const generateRound = () => {
-  const number = getRandomInt(1, 100);
+  // Usamos las constantes en lugar de los números fijos
+  const number = getRandomInt(MIN_NUMBER, MAX_NUMBER);
   const question = String(number);
   const correctAnswer = isPrime(number) ? 'yes' : 'no';
 
