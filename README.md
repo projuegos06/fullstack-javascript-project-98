@@ -23,3 +23,9 @@ git clone https://github.com/projuegos06/fullstack-javascript-project-98.git
 cd fullstack-javascript-project-98
 npm ci
 npm link
+
+## Uso y Demostraciones
+
+A continuación se presenta la grabación con la ejecución completa de los juegos:
+
+[![asciicast](https://asciinema.org/a/0FYdKaZM11rJ0Y4y.svg)](https://asciinema.org/a/0FYdKaZM11rJ0Y4y)
